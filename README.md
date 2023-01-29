@@ -5,7 +5,7 @@
 **About me**
 
 
-I am a Machine Learning Engineer with a passion for leveraging advanced algorithms and statistical models to solve complex problems. With experience in developing and optimizing data-driven solutions and predictive models, I am skilled in data mining, data wrangling, and machine learning techniques such as deep learning, natural language processing (NLP), and computer vision. My goal is to develop powerful machine learning models that are reliable and accurate to drive business decisions and solve real-world problems.
+I am a Machine Learning Engineer with a passion for leveraging advanced algorithms and statistical models to solve complex problems. With experience in developing and optimizing data-driven solutions and predictive models, I am skilled in battery modeling and it's health estimation using machine learning techniques. My goal is to develop powerful machine learning models that are reliable and accurate to drive design decisions and solve real-world problems.
 <!--
 **dvp0007/dvp0007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
